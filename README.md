@@ -1,4 +1,5 @@
 # Client-server_architecture
+HTTP ( Idempotent and safety methods, status codes, request/response structure), rich client, thin client, HTTPS, API, REST, SOAP, XML, JSON
  ## 1. Что такое клиент серверная архитектура?
 
 > Архитектура компьютерной сети, в которой множество клиентов (удаленных процессоров) запрашивают и получают данные от централизованного сервера (хост-компьютера). 
